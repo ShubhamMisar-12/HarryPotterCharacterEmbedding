@@ -1,4 +1,8 @@
 pandas
 sklearn
 gensim
---upgrade nbformat
+matplotlib
+seaborn
+nltk
+wordcloud
+plotly
