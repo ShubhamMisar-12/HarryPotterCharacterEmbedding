@@ -1,5 +1,8 @@
 # HarryPotterCharacterEmbedding
 [Link to Blog](https://medium.com/@shubham007me/harry-potter-character-analysis-using-word2vec-f9b82e0f2dbb)
+
+
+
 <a href="https://www.kaggle.com/code/shubhammisar/satellite-image-classification-pytorch-cnn?scriptVersionId=133741513" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a>
 
 ## Introduction
