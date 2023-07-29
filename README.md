@@ -2,7 +2,7 @@
 [Link to Blog](https://medium.com/@shubham007me/harry-potter-character-analysis-using-word2vec-f9b82e0f2dbb)
 
 
-[Link to Kaggle Notebook]("https://www.kaggle.com/code/shubhammisar/satellite-image-classification-pytorch-cnn?scriptVersionId=133741513")
+[Link to Kaggle Notebook](https://www.kaggle.com/code/shubhammisar/satellite-image-classification-pytorch-cnn?scriptVersionId=133741513)
 
 
 ## Introduction
