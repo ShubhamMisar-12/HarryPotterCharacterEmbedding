@@ -1,6 +1,6 @@
 # HarryPotterCharacterEmbedding
 
-![Harry Potter]<a href="https://www.kaggle.com/code/shubhammisar/satellite-image-classification-pytorch-cnn?scriptVersionId=133741513" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a>)
+<a href="https://www.kaggle.com/code/shubhammisar/satellite-image-classification-pytorch-cnn?scriptVersionId=133741513" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a>)
 
 ## Introduction
 
