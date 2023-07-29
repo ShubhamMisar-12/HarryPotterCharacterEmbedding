@@ -5,6 +5,8 @@
 
 <a href="https://www.kaggle.com/code/shubhammisar/satellite-image-classification-pytorch-cnn?scriptVersionId=133741513" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a>
 
+
+
 ## Introduction
 
 Welcome to the enchanting world of Harry Potter! In this project, we embark on a magical journey to explore the captivating characters of the beloved wizarding universe. Leveraging the power of Word2Vec models and Principal Component Analysis (PCA), we dive into the essence of these iconic characters to uncover their traits, relationships, and unique nuances.
